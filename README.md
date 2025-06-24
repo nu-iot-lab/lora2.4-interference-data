@@ -35,5 +35,5 @@ The LoRa receiver remained fixed. The WiFi transmitter was placed at:
 - 2 m
 - 3 m
 
-WiFi interference was generated using beacon-only AP + STA on ch13 (OFDM) or ch14 (DSSS). LoRa operated on 2479 MHz. See [exp_setup.pdf](exp_setup.pdf) for full layout.
+WiFi interference was generated using beacon-only AP + STA on ch13 (OFDM) or ch14 (DSSS). LoRa operated on 2479 MHz. See ![exp_setup.pdf](exp_setup.pdf) for full layout.
 
